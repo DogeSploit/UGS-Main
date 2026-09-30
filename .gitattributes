@@ -1,0 +1,6 @@
+html5-games/eagler/clEaglercraftX_1.20.6_WASM-GC_Offline.html filter=lfs diff=lfs merge=lfs -text
+html5-games/eagler/clEaglercraftX_1.16.5_WASM-GC_Offline(u2-beta).html filter=lfs diff=lfs merge=lfs -text
+html5-games/eagler/cleaglerultimate.html filter=lfs diff=lfs merge=lfs -text
+html5-games/eagler/eaglercraft-26.2-single-a07aaa7656796892.html filter=lfs diff=lfs merge=lfs -text
+html5-games/clHil[[:space:]]ClimbRacing2.html filter=lfs diff=lfs merge=lfs -text
+html5-games/cladifferentsnowgrave.html filter=lfs diff=lfs merge=lfs -text
